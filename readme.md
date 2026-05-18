@@ -178,13 +178,12 @@
 - [Angular Community Discord](https://discord.com/invite/angular)
 - [Nx Discord](https://go.nx.dev/community)
 
-# Notes
+# Notas
 
 - ⚠️ Ainda não avaliado = conteúdo ainda não revisado.
+- Ordenação dentro de cada seção: `🇧🇷` primeiro, depois conteúdo gratuito (sem `💲`), depois `🐐`, depois `⭐`.
 - 🐐 = extremamente recomendado pela comunidade.
 - ⭐ = muito recomendado.
 - 💲 = pago.
 
-> Contributions welcome.
-
-> PRs/issues futuramente.
+> Contribuições são bem-vindas.
