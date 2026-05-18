@@ -64,14 +64,17 @@
 
 - [(🇺🇸, ⭐) Angular for Beginners — Angular University](https://angular-university.io/course/getting-started-with-angular2)
 > ⚠️ Ainda não avaliado.
+
 > Curso introdutório menor.
 
 - [(🇺🇸, 💲, 🐐) Angular Deep Dive — Angular University](https://www.udemy.com/course/angular-course/)
 > ⚠️ Ainda não avaliado.
+
 > Muito elogiado pela comunidade internacional.
 
 - [(🇺🇸, 💲, 🐐) Angular — The Complete Guide — Maximilian Schwarzmüller](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 > ⚠️ Ainda não avaliado.
+
 > Talvez o curso de Angular mais famoso da internet.
 
 # Cursos Avançados
@@ -91,6 +94,7 @@
 
 - [(🇺🇸, 💲, ⭐) Advanced Angular Forms — Decoded Frontend](https://courses.decodedfrontend.io/courses/advanced-angular-forms)
 > ⚠️ Ainda não avaliado.
+
 > Muito recomendado para formulários avançados.
 
 ## Testing
@@ -110,6 +114,7 @@
 
 - [(🇺🇸, 💲, ⭐) Reactive Angular Course with RxJS — Angular University](https://www.udemy.com/course/rxjs-reactive-angular-course/)
 > ⚠️ Ainda não avaliado.
+
 > Muito citado para aprender arquitetura reativa.
 
 ## Signals
