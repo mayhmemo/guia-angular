@@ -81,12 +81,12 @@
 - [(🇧🇷, 💲, ⭐) Angular Moderno — Code Dimension](https://www.codedimension.com.br/cursos/angular-moderno/)
 > ⚠️ Ainda não avaliado.
 
-- [(🇺🇸, 💲, ⭐) Angular Signals Course — Angular University](https://angular-university.io/course/angular-signals-course)
+- [(🇺🇸, 💲, ⭐) Modern Angular With Signals — Angular University](https://angular-university.io/course/angular-signals-course)
 > ⚠️ Ainda não avaliado.
 
 ## Forms
 
-- [(🇧🇷, 💲) Formulários com Angular — Code Dimension](https://www.codedimension.com.br/cursos/)
+- [(🇧🇷, 💲) Formulários com Angular — Code Dimension](https://www.codedimension.com.br/cursos/formularios-com-angular)
 > ⚠️ Ainda não avaliado.
 
 - [(🇺🇸, 💲, ⭐) Advanced Angular Forms — Decoded Frontend](https://courses.decodedfrontend.io/courses/advanced-angular-forms)
@@ -98,7 +98,7 @@
 - [(🇧🇷, 💲) Testes Automatizados com Angular — Code Dimension](https://www.codedimension.com.br/cursos/testes-automatizados/)
 > ⚠️ Ainda não avaliado.
 
-- [(🇺🇸, 💲) Conscious Angular Testing — Decoded Frontend](https://courses.decodedfrontend.io/collections)
+- [(🇺🇸, 💲) Conscious Angular Testing — Decoded Frontend](https://courses.decodedfrontend.io/courses/conscious-angular-testing)
 > ⚠️ Ainda não avaliado.
 
 # Tópicos Especializados
@@ -122,17 +122,19 @@
 - [(🇺🇸, ⭐) Effective Signals in Angular 19+ — Manfred Steyer](https://speakerdeck.com/manfredsteyer/effective-signals-in-angular-19-plus-rules-and-helpers)
 > ⚠️ Ainda não avaliado.
 
+> Slide.
+
 - [(🇺🇸) Angular RxJS and Signals: Better Together — Deborah Kurata](https://www.youtube.com/watch?v=KSFPOIauEPU)
 > ⚠️ Ainda não avaliado.
 
 ## Nx / Monorepo
 
-- [(🇺🇸, 💲) Nx Workspaces — Decoded Frontend](https://courses.decodedfrontend.io/collections)
+- [(🇺🇸, 💲) Nx Workspaces — Decoded Frontend](https://courses.decodedfrontend.io/courses/nx-workspaces)
 > ⚠️ Ainda não avaliado.
 
 # Canais do YouTube
 
-- [(🇧🇷, ⭐) Code Dimension](https://www.youtube.com/@CodeDimension)
+- [(🇧🇷, ⭐) Code Dimension](https://www.youtube.com/@code.dimension)
 
 - [(🇧🇷, ⭐) Fernanda Kipper](https://www.youtube.com/@kipperdev)
 > Projetos práticos e conteúdo moderno.
@@ -144,7 +146,7 @@
 
 - [(🇺🇸, 🐐) Brian Treese](https://www.youtube.com/@briantreese)
 
-- [(🇺🇸, 🐐) Decoded Frontend](https://www.youtube.com/c/DecodedFrontend)
+- [(🇺🇸, 🐐) Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
 
 - [(🇺🇸, ⭐) Deborah Kurata](https://www.youtube.com/@deborah_kurata)
 
@@ -154,13 +156,10 @@
 
 - [(🇺🇸, ⭐) NgNews](https://www.youtube.com/@ng-news)
 
-- [(🇺🇸) Angular Architects](https://www.youtube.com/@ANGULARarchitects)
+- [(🇺🇸) Manfred Steyer — Angular Architects](https://www.youtube.com/@ManfredSteyer)
 > Foco em arquitetura enterprise.
 
 # Blogs
-
-- [(🇺🇸, 🐐) Angular Blog](https://blog.angular.dev/)
-> Melhor lugar para acompanhar mudanças oficiais.
 
 - [(🇺🇸, ⭐) Angular Architects Blog](https://www.angulararchitects.io/en/blog/)
 > Muito forte em arquitetura enterprise.
